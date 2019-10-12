@@ -1,4 +1,6 @@
-# Next.js example
+## Portfolio Coming Soon
+
+<!-- # Next.js example
 
 ## How to use
 
@@ -18,4 +20,4 @@ npm run dev
 
 ## The idea behind the example
 
-[Next.js](https://github.com/zeit/next.js) is a framework for server-rendered React apps.
+[Next.js](https://github.com/zeit/next.js) is a framework for server-rendered React apps. -->
